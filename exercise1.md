@@ -1,6 +1,4 @@
-# Intro to HTML, CSS and Javascript 
-
-## Exercise 1
+# Exercise 1
 
 We're going to add some new tags into our home page, `index.html`
 
