@@ -4,13 +4,6 @@ We're going to add some CSS to style the HTML we wrote for our home page, `index
 
 ### Steps
 
-Don't forget: 
-> Open VS Code
-> File > Open - navigate to where you have the HTML5 Boilerplate files and select the root directory
-> With your finder, navigate to `index.html`. Right click and open with Chrome. 
-_(This lets you see the file rendered locally)_
-
-
 1. First, let's add a `<main>` tag around all the content so we can give it some layout.
 https://www.w3schools.com/tags/tag_main.asp
 2. Now let's add some CSS. Open the file called `main.css` which is inside the `/css` folder.
