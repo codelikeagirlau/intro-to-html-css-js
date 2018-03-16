@@ -12,7 +12,8 @@ https://www.w3schools.com/css/css_max-width.asp
 4. Now let's try changing the color of our `<h1>` tag. Pick a color from https://htmlcolorcodes.com/color-picker/. Apply that color using the `color` property:
 https://www.w3schools.com/cssref/pr_text_color.asp
 https://www.w3schools.com/cssref/css_colors.asp
-5. You might want to try changing the background color of the `<body>` to see what happens! If you make it dark, you'll also want to change the text to be light so it shows up. 
+5. You might want to try changing the background color of the `<body>` to see what happens! If you make it dark, you'll also want to change the text to be light so it shows up.
+6. What else might you want to style? The color of your paragraph tags? Add a border to your image?
 
 ### Color models in web documents 
 There are several methods to indicate the color you want to style your tag with, including hexadecimal, which looks like `#000000` and RGB / RGBA (which stands for Red, Green, Blue, Alpha) and looks like `rgba(0,0,0,0.5)`. With RGBA, the numbers in your parentheses stand for `(Red, Green, Blue, Alpha)` so `rgba(0,0,0,0.5)` means 0 Red, 0 Green, 0 Blue, and 50% opacity.
