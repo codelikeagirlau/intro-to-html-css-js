@@ -24,5 +24,6 @@ https://www.w3schools.com/cssref/css_colors.asp
 ### Color models in web documents 
 There are several methods to indicate the color you want to style your tag with, including hexadecimal, which looks like `#000000` and RGB / RGBA (which stands for Red, Green, Blue, Alpha) and looks like `rgba(0,0,0,0.5)`. With RGBA, the numbers in your parentheses stand for `(Red, Green, Blue, Alpha)` so `rgba(0,0,0,0.5)` means 0 Red, 0 Green, 0 Blue, and 50% opacity.
 
+### Code reference
 Here's an example of what your CSS code could look like when you've completed the steps above: 
 https://gist.github.com/summerscope/0711b00b2af189a4430a5bf1258de66e

@@ -24,5 +24,6 @@ https://www.w3schools.com/tags/tag_img.asp
 
 > HINT: As you add tags into your code, make sure you keep refreshing the page in Chrome to see your changes come through.
 
+### Code reference
 Here's an example of what your HTML code could look like when you've completed the steps above: 
 https://gist.github.com/summerscope/71c51cbe391c96473d08dfe2e994bd68
