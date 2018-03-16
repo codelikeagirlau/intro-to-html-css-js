@@ -10,17 +10,35 @@ https://help.github.com/categories/github-pages-basics/
 
 ## Steps
 
-1. If you don't have a github account yet, start by creating one, then log in
-2. Move your files on your local harddrive to wherever you want them to live
+1. If you don't have a github account yet, start by creating one, then log in.
+
+2. Let's create a new repository on github, where we will be storing our local files. 
+https://github.com/new 
+
+3. Nagivate to your repository and click the green 'clone or download' button, and copy the HTTPS link.
+
+3. Open your terminal and navigate to an area in your local directory where you'd like to store the repository.
+https://www.codecademy.com/articles/command-line-commands
+
+When you first open your terminal, use 'ls' to list all the files in the directory you're in.
+Use 'cd' followed by the file/folder name you'd like to change or go into, to change folders
+You can use 'mkdir my-new-folder-name' to create a new folder.
+
+4. Use 'git clone [your HTTPS repository link]' in the terminal, to copy your repository to your local harddrive.
+
+5. Once cloned, move your files to the repository folder on your local harddrive.
 _Ask an instructor if you want to discuss this step_
-3. Let's create a new repository on github where we'll 
-3. We'll initialise the github repo for our local harddrive
 
+6. Stage the file for commit to your local repository by running 'git add .' in your terminal. ( the '.' means you're adding all files in the folder!)
 
-https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
+7. Commit the file that you've staged in your local repository by running 'git commit -m "Add existing file"' in your terminal. A 'commit' tracks your changes and prepares them to be pushed to your remote repository on github.com 
 
-https://github.com/summerscope/summerscope.github.io/settings
+8. Push the changes in your local repository to GitHub by running 'git push origin "your-branch"'. The branch is your HTTPS link you used earlier.
 
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+Congratulations! Your files are now on Github.com! We now need to make them live on Github Pages:
 
-https://github.com/new
+1. Go to your repo on Github and click on the 'Settings' tab.
+
+2. Scroll down to 'Github Pages' and in Source, choose 'Master' from the drop down menu. 
+
+3. Once saved, you should get a link to your live website! 
