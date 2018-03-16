@@ -12,3 +12,14 @@ https://github.com/codelikeagirlau/intro-to-html-css-js/blob/master/exercise1.md
 Styling those tags with CSS.
 
 https://github.com/codelikeagirlau/intro-to-html-css-js/blob/master/exercise2.md
+
+
+## Exercise 3
+Try some basic Javascript. 
+
+https://github.com/codelikeagirlau/intro-to-html-css-js/blob/master/exercise3.md
+
+## Exercise 4 (extra)
+Publish to GitHub pages.
+
+https://github.com/codelikeagirlau/intro-to-html-css-js/blob/master/exercise4.md
