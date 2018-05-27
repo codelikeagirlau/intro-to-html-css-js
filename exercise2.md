@@ -22,9 +22,9 @@ We're going to add some CSS to style the HTML we wrote for our home page, `index
 3.  Try some more CSS
 
     * We'll change the color of our `<h1>` tag.
-    * Pick a color from https://htmlcolorcodes.com/color-picker/.
+    * Pick a color from https://htmlcolorcodes.com/color-picker/ or https://www.w3schools.com/cssref/css_colors.asp
     * Apply that color using the `color` propert https://www.w3schools.com/cssref/pr_text_color.asp
-      https://www.w3schools.com/cssref/css_colors.asp
+
     * Try changing the background color of the `<body>` to see what happens!
     * If you make it dark, you'll also want to change the text to be light so it shows up.
 
