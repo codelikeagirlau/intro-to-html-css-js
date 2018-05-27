@@ -28,26 +28,26 @@ https://help.github.com/categories/github-pages-basics/
 
 4.  In Github, nagivate to your new repository and click the green `Clone or download` button, and copy the **HTTPS** link.
 
-5.  In the Terminal, make sure you're in the folder which is the _parent_ of where you want your web files to live. (for example `~/Projects` from the example in point 3.) Type in `git clone [your HTTPS repository link]` to copy your repository to your local harddrive.
+5.  In the Terminal, make sure you're in the folder which is the _parent_ of where you want your web files to live. (for example `~/Projects` from the example in #3.) Type in `git clone [your HTTPS repository link]` to copy your repository to your local harddrive.
 
 > Hint: you can paste with your normal shortcut keys directly into the Terminal
 
 6.  Once cloned, move your files to the repository folder on your local harddrive.
-    _Ask an instructor if you want to discuss this step_
+    _Ask an instructor if you want help with this step_
 
-7.  Stage the file for commit to your local repository by running 'git add .' in your terminal. ( the '.' means you're adding all files in the folder!)
+7.  Stage the file for commit to your local repository by typing `git add .` in your terminal. ( the '.' means you're adding all files in the folder!)
 
-8.  Commit the file that you've staged in your local repository by running 'git commit -m "Add existing file"' in your terminal. A 'commit' tracks your changes and prepares them to be pushed to your remote repository on github.com
+8.  Commit the file that you've staged in your local repository by typing `git commit -m "Add existing files"` in your terminal. A `commit` tracks your changes and prepares them to be pushed to your remote repository on github.com
 
-9.  Push the changes in your local repository to GitHub by running 'git push origin "your-branch"'. The branch is your HTTPS link you used earlier.
+9.  Push the changes in your local repository to GitHub with `git push origin "your-branch"`. The branch is your HTTPS link you used earlier.
 
 🎉 **Congratulations!** 🎉
 Your files are now on Github.com!
 
 Now, we need to make them live on Github Pages:
 
-1.  Go to your repo on Github and click on the 'Settings' tab.
+1.  Go to your repo on Github and click on the **Settings** tab.
 
-2.  Scroll down to 'Github Pages' and in Source, choose 'Master' from the drop down menu.
+2.  Scroll down to **Github Pages** and in Source, choose **Master** from the drop down menu.
 
 3.  Once saved, you should get a link to your live website!
