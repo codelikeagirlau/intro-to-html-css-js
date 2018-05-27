@@ -17,18 +17,21 @@ https://help.github.com/categories/github-pages-basics/
 2.  Let's create a new repository on github, where we will be storing our local files:
     https://github.com/new
 
-3.  Nagivate to your repository and click the green `Clone or download` button, and copy the **HTTPS** link.
-
-4.  Open your terminal on your computer
+3.  Open your terminal on your computer
     * On a Mac, that's `Applications > Utilities > Terminal`
     * On a PC https://www.digitalcitizen.life/7-ways-launch-command-prompt-windows-7-windows-8
     * In your terminal, navigate to where you'd like to store the files for the website on your harddrive
     * To learn some basic instructions like navigating around your computer's directory, read https://www.codecademy.com/articles/command-line-commands
     * A good example might be `~/Projects/My-First-Website`
 
-When you first open your terminal, use 'ls' to list all the files in the directory you're in.
-Use 'cd' followed by the file/folder name you'd like to change or go into, to change folders
-You can use 'mkdir my-new-folder-name' to create a new folder.
+> Terminal command reference
+> `ls` - lists all the files in the directory you're in.
+> `cd` - changes directory
+> `cd Users/MyName/Music` for example, to navigate into your music folder
+> `mkdir` - makes a new directory (folder)
+> `mkdir my-new-folder-name` for example creates a new folder called **my-new-folder-name**
+
+4.  In Github, nagivate to your new repository and click the green `Clone or download` button, and copy the **HTTPS** link.
 
 5.  Use 'git clone [your HTTPS repository link]' in the terminal, to copy your repository to your local harddrive.
 
