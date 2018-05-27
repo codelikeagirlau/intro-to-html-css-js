@@ -7,6 +7,7 @@ So far, we've been working with our website on our local machines, and we're the
 In this extra-credit exercise, you'll push your files up to GitHub and publish your website online using Git (a tool most developers use for managing their files).
 
 Read more about **GitHub Pages** here:
+
 https://help.github.com/categories/github-pages-basics/
 
 ## Steps
