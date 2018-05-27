@@ -12,13 +12,13 @@ Note that all the website tags need to go inside the `<body>` tag
     * Select the folder containing the HTML5 Boilerplate files (this is called the root directory)
     * Click on `index.html` to see the main index (in your file navigator on the left)
 
-    2.  On your OS (Mac Finder / Windows Explorer)
+2.  On your OS (Mac Finder / Windows Explorer)
 
     * Open the folder with HTML5 Boilerplate files on your computer.
     * Right click `index.html` and open with Chrome.
       _(This lets you see the file rendered locally)_
 
-2.  Add new tags to the page
+3.  Add new tags to the page
 
     * Pop these anywhere inside the `<body>` tag.
     * Enter a big heading on the page using the `<h1>` tag
@@ -30,7 +30,7 @@ Note that all the website tags need to go inside the `<body>` tag
     * Try a link to somewhere cool using the `<a>` tag
       https://www.w3schools.com/tags/tag_a.asp
 
-3.  Add an image to the page
+4.  Add an image to the page
 
     * First, pick an image - one from your phone or computer would be great!
     * If your image has spaces in the name, you want to remove them
