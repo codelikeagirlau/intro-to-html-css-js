@@ -35,7 +35,7 @@ We're going to add some CSS to style the HTML we wrote for our home page, `index
     * Add a border to your image?
     * Add a round corner (`border-radius`) to your image?
 
-> Hint: If you have an idea about how you want your elements to look but don't know the CSS to style it, ask for help from a neighbor or one of the workshop helpers!
+> Hint: If you have an idea about how you want your page to look but don't know the CSS to style it, ask for help from a neighbor or one of the workshop helpers!
 
 ### Color models in web documents
 
