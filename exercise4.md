@@ -14,7 +14,7 @@ https://help.github.com/categories/github-pages-basics/
 
 1.  If you don't have a github account yet, start by creating one, then log in.
 
-2.  Let's create a new repository on github, where we will be storing our local files:
+2.  Let's create a new repository on github, where we will be storing our local files:  
     https://github.com/new
 
 3.  Open your terminal on your computer
@@ -24,16 +24,14 @@ https://help.github.com/categories/github-pages-basics/
     * To learn some basic instructions like navigating around your computer's directory, read https://www.codecademy.com/articles/command-line-commands
     * A good example might be `~/Projects/My-First-Website`
 
-> Terminal command reference
-> `ls` - lists all the files in the directory you're in.
-> `cd` - changes directory
-> `cd Users/MyName/Music` for example, to navigate into your music folder
-> `mkdir` - makes a new directory (folder)
-> `mkdir my-new-folder-name` for example creates a new folder called **my-new-folder-name**
+> Terminal command reference <br/> > `ls` - lists all the files in the directory you're in. <br/>
+> `cd` - changes directory <br/> > `cd Users/MyName/Music` for example, to navigate into your music folder <br/> > `mkdir` - makes a new directory (folder) <br/> > `mkdir my-new-folder-name` for example creates a new folder called **my-new-folder-name**
 
 4.  In Github, nagivate to your new repository and click the green `Clone or download` button, and copy the **HTTPS** link.
 
-5.  Use 'git clone [your HTTPS repository link]' in the terminal, to copy your repository to your local harddrive.
+5.  In the Terminal, make sure you're in the folder which is the _parent_ of where you want your web files to live. (for example `~/Projects` from the example in point 3.) Type in `git clone [your HTTPS repository link]` to copy your repository to your local harddrive.
+
+> Hint: you can paste with your normal shortcut keys directly into the Terminal
 
 6.  Once cloned, move your files to the repository folder on your local harddrive.
     _Ask an instructor if you want to discuss this step_
