@@ -24,8 +24,7 @@ https://help.github.com/categories/github-pages-basics/
     * To learn some basic instructions like navigating around your computer's directory, read https://www.codecademy.com/articles/command-line-commands
     * A good example might be `~/Projects/My-First-Website`
 
-> Terminal command reference <br/> > `ls` - lists all the files in the directory you're in. <br/>
-> `cd` - changes directory <br/> > `cd Users/MyName/Music` for example, to navigate into your music folder <br/> > `mkdir` - makes a new directory (folder) <br/> > `mkdir my-new-folder-name` for example creates a new folder called **my-new-folder-name**
+> Terminal command reference <br/>`ls` - lists all the files in the directory you're in. <br/> `cd` - changes directory <br/> `cd Users/MyName/Music` for example, to navigate into your music folder <br/>`mkdir` - makes a new directory (folder) <br/>`mkdir my-new-folder-name` for example creates a new folder called **my-new-folder-name**
 
 4.  In Github, nagivate to your new repository and click the green `Clone or download` button, and copy the **HTTPS** link.
 
