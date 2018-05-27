@@ -6,6 +6,8 @@ Note that all the website tags need to go inside the `<body>` tag
 
 ### Steps
 
+> Hint: Don't forget to save each time you make changes to a file!
+
 1.  Open VS Code
 
     * Click File > Open
@@ -16,7 +18,7 @@ Note that all the website tags need to go inside the `<body>` tag
 
     * Open the folder with HTML5 Boilerplate files on your computer.
     * Right click `index.html` and open with Chrome.
-      _(This lets you see the file rendered locally)_
+      _(This lets you see the file rendered locally. Refresh to see changes.)_
 
 3.  Add new tags to the page
 
