@@ -6,34 +6,30 @@ We're going to add some CSS to style the HTML we wrote for our home page, `index
 
 1.  Wrap our content
 
-    * Let's add a `<main>` tag around all the elements we've already added inside our document `body`.
+    * Let's add a `<main>` tag around _all the elements_ we've already added inside our document `body`.
     * This makes it easier for us to lay out our elements
       https://www.w3schools.com/tags/tag_main.asp
 
 2.  Let's center our page with CSS
 
     * Open the file called `main.css` which is inside the `/css` folder.
-    * Note that there is _already_ lots of css in this file. We will add some new CSS rules to this file.
-    * Below the `html` tag on line 18, add a new line to add new rules to the code.
-    * Let's add a `max-width` to our `main` container. Don't forget to wrap all your CSS rules inside curly braces like this:
+    * _NB: the name of the css file is unrelated to the `<main>` tag we added._
+    * _NB: there is already lots of css in this file, which we will leave intact._
+    * Let's add some new CSS rules to this file. Below the `html` selector on line 18, add a new line.
+    * Let's style the `main` tag we added with `max-width`. Don't forget to wrap all your CSS rules inside curly braces like this:
       `main { max-width: 600px; }`
-    * Let's center it using `margin: auto`.
+    * Now let's center it using `margin: auto`.
     * For CSS properties that apply to the same selector, you include them all in the same {} curly brackets. So with our example above, the finished CSS looks like this:
       `main { max-width: 600px; margin: auto; }`
-    * Note that it's fine to have CSS in one line for a small amount, but for 3 or more properties it's common to add a new line for each property to make it easier to read.
+    * Note that it's fine to have CSS in one line for a small amount, but for 3 or more properties it's common to add a new line for each property to make it easier to read. Some people prefer to add a new line regardless to keep your CSS consistent.
     * Try different maximum widths (say 1200px, 500px, 100px), to see what happens to the layout.
       https://www.w3schools.com/css/css_max-width.asp
-
-    ```
-
-    ```
 
 3.  Try some more CSS
 
     * We'll change the color of our `<h1>` tag.
     * Pick a color from https://htmlcolorcodes.com/color-picker/ or https://www.w3schools.com/cssref/css_colors.asp
-    * Apply that color using the `color` propert https://www.w3schools.com/cssref/pr_text_color.asp
-
+    * Apply that color using the `color` property https://www.w3schools.com/cssref/pr_text_color.asp
     * Try changing the background color of the `<body>` to see what happens!
     * If you make it dark, you'll also want to change the text to be light so it shows up.
 
