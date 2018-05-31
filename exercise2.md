@@ -6,13 +6,13 @@ We're going to add some CSS to style the HTML we wrote for our home page, `index
 
 1.  Wrap our content
 
-    * Let's add a `<main>` tag around _all the elements_ we've already added inside our document `body`.
-    * This makes it easier for us to lay out our elements
+    * Let's add a `<main>` tag around _all the elements_ we've already added inside our document `<body>`.
+    * This makes it easier for us to layout our elements
       https://www.w3schools.com/tags/tag_main.asp
 
 2.  Let's center our page with CSS
 
-    * Open the file called `main.css` which is inside the `/css` folder.
+    * In VS Code, open the file called `main.css` which is inside the `/css` folder.
     * _NB: the name of the css file is unrelated to the `<main>` tag we added._
     * _NB: there is already lots of css in this file, which we will leave intact._
     * Let's add some new CSS rules to this file. Below the `html` selector on line 18, add a new line.
@@ -21,7 +21,7 @@ We're going to add some CSS to style the HTML we wrote for our home page, `index
     * Now let's center it using `margin: auto`.
     * For CSS properties that apply to the same selector, you include them all in the same {} curly brackets. So with our example above, the finished CSS looks like this:
       `main { max-width: 600px; margin: auto; }`
-    * Note that it's fine to have CSS in one line for a small amount, but for 3 or more properties it's common to add a new line for each property to make it easier to read. Some people prefer to add a new line regardless to keep your CSS consistent.
+    * _Note that it's fine to have CSS in one line for a small amount, but for 3 or more properties it's common to add a new line for each property to make it easier to read. Some people prefer to add a new line regardless to keep your CSS consistent._
     * Try different maximum widths (say 1200px, 500px, 100px), to see what happens to the layout.
       https://www.w3schools.com/css/css_max-width.asp
 
