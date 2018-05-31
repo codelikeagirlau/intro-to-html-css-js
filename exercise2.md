@@ -13,11 +13,20 @@ We're going to add some CSS to style the HTML we wrote for our home page, `index
 2.  Let's center our page with CSS
 
     * Open the file called `main.css` which is inside the `/css` folder.
+    * Note that there is _already_ lots of css in this file. We will add some new CSS rules to this file.
+    * Below the `html` tag on line 18, add a new line to add new rules to the code.
     * Let's add a `max-width` to our `main` container. Don't forget to wrap all your CSS rules inside curly braces like this:
       `main { max-width: 600px; }`
     * Let's center it using `margin: auto`.
+    * For CSS properties that apply to the same selector, you include them all in the same {} curly brackets. So with our example above, the finished CSS looks like this:
+      `main { max-width: 600px; margin: auto; }`
+    * Note that it's fine to have CSS in one line for a small amount, but for 3 or more properties it's common to add a new line for each property to make it easier to read.
     * Try different maximum widths (say 1200px, 500px, 100px), to see what happens to the layout.
       https://www.w3schools.com/css/css_max-width.asp
+
+    ```
+
+    ```
 
 3.  Try some more CSS
 
